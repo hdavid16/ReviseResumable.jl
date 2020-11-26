@@ -1,0 +1,13 @@
+name = "ReviseResumable"
+uuid = "80d58ff9-3b30-45f0-9ea0-2f24891a39e4"
+authors = ["hdavid16 <hperez16@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
