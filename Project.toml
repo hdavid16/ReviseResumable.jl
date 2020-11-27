@@ -8,6 +8,7 @@ ResumableFunctions = "c5292f4c-5179-55e1-98c5-05642aab7184"
 SimJulia = "428bdadb-6287-5aa5-874b-9969638295fd"
 
 [compat]
+ResumableFunctions = "0.5"
 julia = "1"
 
 [extras]
