@@ -1,6 +1,6 @@
 @resumable function test(env)
     #Resumable function that yields a timeout event of 1 period
-    #Making nay changes to the resumable function such as commenting/uncommenting 
+    #Making any changes to the resumable function such as commenting/uncommenting 
     #   the print statements below, will result in the following Revise error:
     # ┌ Error: Failed to revise c:\Users\HD\.julia\dev\ReviseResumable\src\resumable.jl
     # │   exception =
